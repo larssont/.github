@@ -24,5 +24,10 @@ simple and free of external dependencies as you can.
 2. Step two
 3. Step three
 
+### Environment
+<!--- Include as many relevant details about the environment you experienced the bug in -->
+* Version used:
+* Operating System and version: 
+
 ### Possible solution
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
