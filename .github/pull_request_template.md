@@ -6,7 +6,7 @@
 - [ ] Documentation changes
 
 ### Description
-Describe your changes and how they were implemented for the maintainer reviewing. Please make sure link to any related issues.
+<!-- Describe your changes and how they were implemented for the maintainer reviewing. Please make sure link to any related issues. -->
 
 ### Further comments
-Any additional comments that might be relevant for the pull request.
+<!-- Any additional comments that might be relevant for the pull request. -->
