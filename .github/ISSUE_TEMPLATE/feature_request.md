@@ -12,17 +12,14 @@ Thank you for suggesting an idea to make this project better!
 Please fill in as much of the template below as you're able.
 -->
 
-### Is your feature request related to a problem? Please describe.
+### Is your feature request related to a problem?
+<!-- Is applicable, please describe what the problem is. -->
 
-<!-- Please describe the problem you are trying to solve. -->
-
-
-### Describe the solution you'd like
-
+### Proposed solution
 <!-- Please describe the desired behavior. -->
 
-
-### Describe alternatives you've considered
-
+### Alternative solutions
 <!-- Please describe alternative solutions or features you have considered. -->
 
+### Further comments
+<!-- Any additional comments that might be relevant. -->
