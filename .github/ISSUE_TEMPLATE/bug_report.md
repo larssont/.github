@@ -15,14 +15,15 @@ If possible, please provide code that demonstrates the problem, keeping it as
 simple and free of external dependencies as you can.
 -->
 
-**Version**:
-
-**Platform**:
-
-**Behaviour**:
+**Current Behaviour**:
 
 **Expected behaviour**:
 
 **Steps to reproduce**:
 
-<!-- Please provide more details below this comment. -->
+**Platform**:
+
+**Version**:
+
+**Possible solution**:
+<!--- Not obligatory, but suggest an idea for implementing addition or change -->
